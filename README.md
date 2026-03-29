@@ -61,17 +61,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leonkaushikdeka&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonkaushikdeka&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonkaushikdeka&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="top langs"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonkaushikdeka&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="top langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=leonkaushikdeka&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://nirzak-streak-stats.vercel.app?user=leonkaushikdeka&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=leonkaushikdeka&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonkaushikdeka&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
