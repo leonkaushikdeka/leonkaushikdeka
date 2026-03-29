@@ -67,7 +67,7 @@
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app?user=leonkaushikdeka&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.vercel.app?user=leonkaushikdeka&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
 <br/><br/>
 
