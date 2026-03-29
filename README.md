@@ -16,8 +16,8 @@
 
 ## About Me
 
-- 🔐 Cybersecurity student building real-world tools — from zero-trust scanners to AI-driven SOC platforms
-- 🌐 Created **[AxomiScript](https://github.com/leonkaushikdeka/AxomiScript)** — a programming language you write in Assamese (অসমীয়া)
+- 🔐 Cybersecurity student building real-world tools, from zero-trust scanners to AI-driven SOC platforms
+- 🌐 Created **[AxomiScript](https://github.com/leonkaushikdeka/AxomiScript)**, a programming language you write in Assamese (অসমীয়া)
 - 🧬 Exploring bioinformatics tooling: WASM-powered genomics, biologics QC, immutable data pipelines
 - ⚖️ Working on legal-tech and compliance platforms for Indian users (DPDPA, ITR, forensics)
 - 🦀 Currently deep in Rust for performance-critical forensics tooling
@@ -98,7 +98,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [AxomiScript](https://github.com/leonkaushikdeka/AxomiScript) | Programming language written in Assamese — compiles to Python 3 & C++17 | Python, Lark |
+| [AxomiScript](https://github.com/leonkaushikdeka/AxomiScript) | Programming language written in Assamese which compiles to Python 3 & C++17 | Python, Lark |
 | [AEGIS-UEBA](https://github.com/leonkaushikdeka/AEGIS) | AI-driven Security Operations Center with user behavior analytics | Python, AI/ML |
 | [DIFIG](https://github.com/leonkaushikdeka/difig) | High-performance digital forensics & investigation gear | Rust |
 | [ForensicSight v2](https://github.com/leonkaushikdeka/leosa) | Real-time forensic analysis system | Python |
