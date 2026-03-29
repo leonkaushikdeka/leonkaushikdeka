@@ -57,7 +57,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Trophies
 
 <div align="center">
 
@@ -71,7 +71,23 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonkaushikdeka&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=leonkaushikdeka&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonkaushikdeka&theme=toko-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+
+</div>
+
+---
+
+## GitHub Achievements
+
+<div align="center">
+
+[![Achievement: YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/leonkaushikdeka?achievement=yolo&tab=achievements)
+
+*More achievements coming soon...*
 
 </div>
 
